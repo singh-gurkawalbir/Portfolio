@@ -1,3 +1,5 @@
+Here is the link to access the portfolio:
+  https://my-portfolio89.netlify.app/
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
